@@ -1,0 +1,20 @@
+.lineone{
+    background-color: rgb(255, 100, 168) ;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#linetwo{
+    color: rgb(0, 28, 243);
+    font-size: 36px;
+}
+
+.linethree{
+    font-size: 24px;
+
+}
+
+.linefour{
+    background-color: rgb(0, 255, 8) ;
+    font-weight: bold;
+    font-size: 24px;
+}
